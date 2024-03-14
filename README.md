@@ -1,0 +1,1 @@
+Simple website for 1st Odin Project
